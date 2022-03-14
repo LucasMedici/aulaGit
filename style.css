@@ -1,0 +1,22 @@
+.title{
+    text-align: center;
+    font: bolder;
+    font-size: xx-large;
+}
+
+.textcenter{
+text-align: center;
+font: bolder;
+font-style: italic;
+}
+
+.img{
+    width: 75;
+    height: 75;
+    margin-left: 270;
+    margin-right: 0;
+}
+
+.backcolor{
+    background-color: #DCDCDC;
+}
